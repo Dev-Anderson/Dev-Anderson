@@ -1,8 +1,10 @@
-### Eu sou o Anderson 👋
+# Eu sou o Anderson 👋
 
-Eu sou estudadnete de Análise e Desenvolvimento de Sistemas na faculdade Unopar
+Eu sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Unopar
 
-### Stakes
+## Eu estou estudando as seguintes Stack
+
+### Stack
 - HTML 
 - CSS
 - Javascript 
