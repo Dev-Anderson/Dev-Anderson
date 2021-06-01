@@ -1,14 +1,21 @@
 # Eu sou o Anderson 👋
 
-Eu sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Unopar
+Eu sou formado em Análise e Desenvolvimento de Sistemas 
 
-## Eu estou estudando as seguintes Stack
+## Atualmente estou seguindo o seguinte roadmap 
 
 - HTML 
 - CSS
 - Javascript 
+- GitHub
+- NodeJS
 - React 
-- React native 
-- Vue
+- React Native 
+- Flutter 
+- Banco de dados 
+-   Firebird
+-   Postgres
+-   Mysql
+-   MongoDB
 - Delphi
 - C#
