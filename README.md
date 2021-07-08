@@ -2,7 +2,7 @@
 
 Eu sou formado em Análise e Desenvolvimento de Sistemas 
 
-## Atualmente estou seguindo o seguinte roadmap 
+## Buscando conhecimento nas seguintes tecnologias
 
 - HTML 
 - CSS
