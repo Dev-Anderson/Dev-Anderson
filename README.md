@@ -9,7 +9,8 @@
   <img align="center" alt="Anderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anderson-Delphi" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.embarcadero.com%2Fcompetitions%2F11-delphi-10-2-t-shirt-challenge&psig=AOvVaw2OK-rFP8P149fle4k5hKz2&ust=1632877094062000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiSuK27oPMCFQAAAAAdAAAAABADa">
+  <img align="center" alt="Anderson-NodeJS" height="30" width="40" src="https://github.com/Dev-Anderson/Cursos/blob/master/nodejs-original.svg">
+
 </div>
   
   ##
