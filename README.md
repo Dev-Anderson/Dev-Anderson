@@ -1,10 +1,11 @@
 ## Eu sou o Anderson Silva
 
 Olá eu sou Anderson... 
-
-Formado em Analise e Desenvolvimento de Sistemas
-Analista/Líder de projeto na empresa Ecocentauro Sistemas
-Programador backend GO
+<br>
+<br>
+Formado em Analise e Desenvolvimento de Sistemas <br>
+Analista/Líder de projeto na empresa Ecocentauro Sistemas <br>
+Programador backend GO <br>
 
 <br>
 <div align="center">
