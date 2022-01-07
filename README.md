@@ -1,6 +1,11 @@
 ## Eu sou o Anderson Silva
 
-Olá eu sou o Anderson, sou líder de projeto a mais de 3 anos e sou Analista de Sistemas a mais de 8 anos, atuamente buscando novos conhecimentos na área de desenvovlimento Web e Mobile. 
+Olá eu sou Anderson... 
+
+Formado em Analise e Desenvolvimento de Sistemas
+Analista/Líder de projeto na empresa Ecocentauro Sistemas
+Programador backend GO
+
 <br>
 <div align="center">
   <a href="https://github.com/Dev-Anderson">
