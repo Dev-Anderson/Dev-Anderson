@@ -3,8 +3,8 @@
 Olá eu sou Anderson... 
 <br>
 <br>
-Formado em Analise e Desenvolvimento de Sistemas <br>
-Analista/Líder de projeto na empresa Ecocentauro Sistemas <br>
+Formado em Análise e Desenvolvimento de Sistemas <br>
+Líder de projeto na empresa Ecocentauro Sistemas <br>
 Programador backend GO <br>
 
 <br>
