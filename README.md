@@ -1,17 +1,30 @@
-## Eu sou o Anderson Silva
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+<br>
 
-Olá eu sou Anderson... 
-<br>
-<br>
-Formado em Análise e Desenvolvimento de Sistemas <br>
-Líder de projeto na empresa Ecocentauro Sistemas <br>
-Programador backend GO <br>
+## Sobre min!!!
+
+- Formado em Análise e desenvolvimento de sistemas na *Unopar*
+- Apaixonado por tecnologia, focado em desenvolvimento back end 
+- Líder de squad na empresa Ecocentauro Sistemas
+
 
 <br>
 <div align="center">
   <a href="https://github.com/Dev-Anderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Anderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anderson&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center">
+ <a href="https://github.com/Dev-Anderson/golang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=golang&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/Dev-Anderson/api-go-fretebras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=api-go-fretebras&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/Dev-Anderson/html-css-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=html-css-js&theme=react&hide_border=true" />
+</a>
 </div>
 
 ## Entre em contato comigo... 
