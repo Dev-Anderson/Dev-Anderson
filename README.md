@@ -5,7 +5,7 @@
 
 - Formado em Análise e desenvolvimento de sistemas na *Unopar*
 - Apaixonado por tecnologia, focado em desenvolvimento back end 
-- Líder de squad na empresa Ecocentauro Sistemas
+- Líder de squad na empresa Ecocentauro Sistemas e Programador Delphi
 
 
 <br>
@@ -19,8 +19,8 @@
  <a href="https://github.com/Dev-Anderson/golang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=golang&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/Dev-Anderson/api-go-fretebras">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=api-go-fretebras&theme=react&hide_border=true" />
+<a href="https://github.com/Dev-Anderson/delphi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=delphi&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/Dev-Anderson/html-css-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=html-css-js&theme=react&hide_border=true" />
