@@ -7,6 +7,8 @@
 - Apaixonado por tecnologia, focado em desenvolvimento back end 
 - Líder de squad na empresa Ecocentauro Sistemas e Programador Delphi
 
+Meu blog onde faço post sobre programação: https://dev-anderson.blogspot.com/
+
 
 <br>
 <div align="center">
