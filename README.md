@@ -13,7 +13,7 @@ Meu blog onde faço post sobre programação: https://dev-anderson.blogspot.com/
 <br>
 <div align="center">
   <a href="https://github.com/Dev-Anderson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Anderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anderson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
