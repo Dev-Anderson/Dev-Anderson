@@ -14,7 +14,7 @@ Meu blog onde faço post sobre programação: https://dev-anderson.blogspot.com/
 <div align="center">
   <a href="https://github.com/Dev-Anderson">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anderson&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anderson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
