@@ -5,7 +5,7 @@
 
 - Formado em Análise e desenvolvimento de sistemas na *Unopar*
 - Apaixonado por tecnologia, focado em desenvolvimento back end 
-- Líder de squad na empresa Ecocentauro Sistemas e Programador Delphi
+- Líder de squad na empresa Ecocentauro Sistemas e Programador
 
 Meu blog onde faço post sobre programação: https://dev-anderson.blogspot.com/
 
