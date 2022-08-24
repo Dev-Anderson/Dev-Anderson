@@ -8,26 +8,7 @@
 - Líder de squad na empresa Ecocentauro Sistemas e Programador
 
 <br>
-<div align="center">
-  <a href="https://github.com/Dev-Anderson">
 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Anderson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div align="center">
- <a href="https://github.com/Dev-Anderson/golang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=golang&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/Dev-Anderson/delphi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=delphi&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/Dev-Anderson/html-css-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=html-css-js&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/Dev-Anderson/api-node-postgres">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Anderson&repo=api-node-postgres&theme=react&hide_border=true" />
-</a>
-</div>
 
 ## Entre em contato comigo... 
  
