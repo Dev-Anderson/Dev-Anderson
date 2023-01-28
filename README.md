@@ -4,6 +4,7 @@
 <img width=35% src="https://github-readme-stats-a8vb.vercel.app/api/top-langs/?username=dev-anderson&theme=dark&hide_border=true"/>
 </div>
 
+<div>
 <h3 align="left">Linguagens e Ferramentas utilizadas:</h3>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -13,6 +14,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+</div>
 
 <h2 align="right"> About me: </h2>
 <p align="right">Eu sou o Anderson, foi Analista de sistema por 7 Anos, 3 anos como Líder de esquadrão,<br> 1 ano como desenvolvedor Delphi, atualmente estou prestando serviço para a empresa Intelbras como back-end developer </p>
@@ -26,7 +28,7 @@
 <br>
 
 
-
+<div>
 <h3 align="left">Estudando:</h3>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
@@ -35,7 +37,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
+</div>
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Seja%20bem-vindo!&fontSize=25&fontColor=ffffff&color=839deb&height=150&section=footer"/>
