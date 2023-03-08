@@ -16,15 +16,28 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
-<h2 align="right"> About me: </h2>
-<p align="right">Eu sou o Anderson, foi Analista de sistema por 7 Anos, 3 anos como Líder de esquadrão,<br> 1 ano como desenvolvedor Delphi, atualmente estou prestando serviço para a empresa Intelbras como back-end developer </p>
-
+<h2 align="left"> Sobre min: </h2>
+<p align="left">
+    Olá, eu sou o Anderson, tenho 10 anos de experiência com a área de tecnologia, iniciei com Suporte nível 1, cheguei a Líder de projeto, e atualmente eu estou prestando serviço para a empresa Intelbras como back-end developer. <br>
+  As stacks que mais utilizo no dia a dia: <br>
+  <ul>
+    <li>Golang</li>
+    <li>MySQL</li>
+    <li>Postgres</li>
+    <li>MongoDB</li>
+    <li>Redis</li>
+    <li>API Rest</li>
+    <li>NodeJS (pouco utilizado)</li>
+  </ul> 
+</p>
+<div>
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-silva-7591b1102/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-silva-7591b1102/" height="30" width="40" /></a>
 <a href="mailto:adersoosilvaa@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40" /></a>
 <a href="https://wa.me/5545991182040" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
+ </div>
 <br>
 
 
