@@ -1,7 +1,8 @@
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=839deb&text=Anderson%20Silva&fontSize=25&fontColor=ffffff&height=120&section=header"/>
-<img width=50% src="https://github-readme-stats-a8vb.vercel.app/api?username=dev-anderson&theme=dark&show_icons=true&icon_color=A6754B&hide_border=true&count_private=true"/>
-<img width=35% src="https://github-readme-stats-a8vb.vercel.app/api/top-langs/?username=dev-anderson&theme=dark&hide_border=true"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009aff&text=Anderson%20Silva&fontSize=30&fontColor=ffffff&height=180&section=header"/>
+</div>
+<div align="center">
+    <img width=35% src="https://github-readme-stats-a8vb.vercel.app/api/top-langs/?username=dev-anderson&theme=dark&hide_border=true"/>
 </div>
 
 <div>
@@ -50,6 +51,6 @@
 </div>
 
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Seja%20bem-vindo!&fontSize=25&fontColor=ffffff&color=839deb&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Seja%20bem-vindo!&fontSize=25&fontColor=ffffff&color=009aff&height=150&section=footer"/>
 
 </div>
