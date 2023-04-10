@@ -35,8 +35,9 @@
 <h3 align="left">Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-silva-7591b1102/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-silva-7591b1102/" height="30" width="40" /></a>
-<a href="mailto:adersoosilvaa@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="40" /></a>
+<a href="mailto:adersoosilvaa@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/5545991182040" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://cursos.alura.com.br/vitrinedev/adersoosilvaa" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
 </p>
  </div>
 <br>
