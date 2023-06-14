@@ -19,7 +19,7 @@
 
 <h2 align="left"> Sobre min: </h2>
 <p align="left">
-    Olá, eu sou o Anderson, tenho 10 anos de experiência com a área de tecnologia, iniciei com Suporte nível 1, cheguei a Líder de projeto, e atualmente eu estou prestando serviço para a empresa Intelbras como back-end developer. <br>
+    Olá, eu sou o Anderson, tenho 10 anos de experiência com a área de tecnologia, iniciei com Suporte, passei para Analista de negócio, Programador, Líder de projeto, e atualmente estou prestando serviço para a empresa Intelbras como software engineer. <br>
   As stacks que mais utilizo no dia a dia: <br>
   <ul>
     <li>Golang</li>
@@ -28,7 +28,8 @@
     <li>MongoDB</li>
     <li>Redis</li>
     <li>API Rest</li>
-    <li>NodeJS (pouco utilizado)</li>
+    <li>NodeJS</li>
+    <li>Docker</li>
   </ul> 
 </p>
 <div>
