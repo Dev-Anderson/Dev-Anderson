@@ -8,12 +8,12 @@
         A  Stacks utilizadas no dia a dia
         <ul>
             <li>Golang</li>
-            <li>C#</li>
             <li>Docker</li>
             <li>Mysql</li>
             <li>Postgres</li>
             <li>Redis</li>
             <li>MongoDB</li>
+            <li>C# Aplicações windows forms</li>
             <li>NodeJS</li>
             <li>Jira</li>
             <li>Scrum</li>
