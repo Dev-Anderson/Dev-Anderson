@@ -1,29 +1,15 @@
   
 ## Resumo da Experiência
-Olá! Sou um profissional com 8 anos de experiência como Analista de Negócios e Líder de Esquadrão, desempenhando diversas atividades que incluem atendimento ao cliente, levantamento de requisitos, análise de normas técnicas fiscais, gerenciamento de backlog e liderança de equipe. Além disso, atuei por 1 ano como desenvolvedor de software, utilizando as linguagens Delphi, Golang e Python. Durante esse período, desenvolvi várias APIs em Golang, integrando-as a outros serviços internos da empresa. Também realizei automação de tarefas com a linguagem Python e manutenção de software em Delphi. No último ano, trabalhei como Engenheiro de Software na Intelbras, desenvolvendo soluções utilizando Golang, Node.js, Python, C# e Batch.
+Olá! Sou um profissional com 8 anos de experiência sólida como Analista de Negócios e Líder de Esquadrão, onde realizei uma ampla gama de atividades, desde o atendimento ao cliente até o gerenciamento de equipe e análise de normas técnicas fiscais. Também possuo habilidades robustas em desenvolvimento de software, com experiência direta como desenvolvedor. Durante esse período, trabalhei com diversas linguagens, incluindo Delphi, Golang e Python.
 
-## Onde estou trabalhando
-Atualmente eu estou trabalhando para a empresa Intelbras como Engenheiro de software, utilizando as seguintes tecnologias:
-- Golang
-- C#
-- Bath
-- Mysql
-- Postgres
-- Redis
-- MongoDB
-- Goroutines
-- Bibliotecas em Golang
-- Scrum
-- Jira
-- Gitlab
+Na minha última posição na empresa Intelbras, atuei como Engenheiro de Software, onde fui responsável por diversas frentes de trabalho. Utilizei as principais stacks como Golang, C# e Batch, além de diversos bancos de dados como Postgres, Mysql, MongoDB e Redis. Destaco meu envolvimento no desenvolvimento de um aplicativo com Windows Forms e C# para configurar os aplicativos da empresa, assim como a criação de um serviço de alta performance para buscar dados de placas de veículos, envolvendo integrações complexas com softwares governamentais.
 
-## O que eu estou estudando
-- Arquitetura de software
-- Golang
-- C#
-- Testes
-- Docker
-- Monitoramento de aplicações (ex: grafana)
+Além disso, tive a oportunidade de desenvolver bibliotecas para padronizar o ambiente de desenvolvimento da empresa, demonstrando minha capacidade de pensar em soluções escaláveis e de alto impacto.
+
+Estou entusiasmado para trazer minha experiência e habilidades para novos desafios e contribuir de forma significativa para o sucesso de projetos futuros.
+
+
+
 
 
     <div>
