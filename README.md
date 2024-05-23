@@ -1,10 +1,10 @@
   
 <h1 align="center">Oi 👋, Eu sou Anderson</h1>
-<h3 align="center">Engenheiro de Software - Backend Golang - Backend</h3>
+<h3 align="center">Programador (qualquer linguagem) - Backend Golang - Backend</h3>
 
-- 🔭 Atualmente estou trabalhando **TruckPag Meio de pagamento**
-
-- 👨‍💻 Coisas que eu estou estudando (docker, grafana, teste, arquitetura de software, ruby, nodejs, golang)
+- 🔭 Atualmente estou atuando como Product Manager na **TruckPag Meio de pagamento**
+- 👨‍💻 Coisas que eu estou estudando (Arquitetura de software, Testes, Monitoramento de aplicações, Golang, Nodejs, Docker, Grafana, AWS)
+- Sempre buscando novos desafios, pode entrar em contato...
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
