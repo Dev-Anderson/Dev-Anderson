@@ -21,14 +21,6 @@ Sou um programador backend especializado em Golang e atualmente trabalho como ge
 - C# + Windows Forms
 - Cloud Computing
 
-### Atualmente Estudando
-- Arquitetura de software
-- Testes (unitário/aceitação/E2E, etc...)
-- Cloud computing (AWS/Azure/Google)
-- Gestão de projetos
-- Golang
-- NodeJS
-
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/dev-anderson-silva/)
 - [Email](mailto:adersoosilvaa@gmail.com)
