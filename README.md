@@ -1,7 +1,7 @@
 # Olá, sou Anderson da Silva 👋
 
 ## Sobre mim
-Sou um programador backend especializado em Golang e atualmente trabalho como gerente de projetos na **TruckPag Meio de pagamento**. Tenho paixão por resolver problemas complexos e liderar equipes para entregar soluções eficientes e de alta qualidade.
+Sou um amante de tecnologia, buscando sempre novos conhecimentos... 
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/dev-anderson-silva/)
